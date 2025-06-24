@@ -50,11 +50,13 @@ Buka browser ke `http://localhost:3000` dan mulai eksplorasi!
 
 
 1. Masuk ke halaman utama&#x20;
-
-2. Gunakan ekstensi seperti EditThisCookie dan ubah nilai cookie dari `guest` ke `admin`&#x20;
-
-3. Refresh halaman, dan flag akan muncul di halaman!&#x20;
-  
+<img src="./assets/KuKISS-1.png"></img>
+2. Gunakan ekstensi seperti Cookie Editor
+<img src="./assets/KuKISS-2.png"></img>
+3. Ubah nilai cookie dari `guest` ke `admin`&#x20;
+<img src="./assets/KuKISS-3.png"></img>
+4. Refesh page
+<img src="./assets/KuKISS-4.png"></img>
 </details>
 
 
