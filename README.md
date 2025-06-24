@@ -75,16 +75,10 @@ Buka browser ke `http://localhost:3000` dan mulai eksplorasi!
 Challenge ini dibuat hanya untuk **edukasi dan simulasi keamanan siber**. Jangan gunakan teknik serupa terhadap sistem yang tidak kamu miliki atau tidak diizinkan.
 
 ---
-
-## 🤝 Kontribusi
-
-Pull request dan issue sangat terbuka di repo: [github.com/yourteam/kukiss-ctf](https://github.com/yourteam/kukiss-ctf)
-
----
+🤝 Kontribusi Pull request & issue welcome via: ctflabs-id/
 
 🧠 Maintained by
 
-- GitHub: [@yourteam]
-- Instagram: [@yourteam\_ctf]
-- Website: [yourteam.com]
+    GitHub: @ctflabs-id
+    Website: ctflabsid.my.id
 
