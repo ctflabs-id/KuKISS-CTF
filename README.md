@@ -75,7 +75,7 @@ Buka browser ke `http://localhost:3000` dan mulai eksplorasi!
 Challenge ini dibuat hanya untuk **edukasi dan simulasi keamanan siber**. Jangan gunakan teknik serupa terhadap sistem yang tidak kamu miliki atau tidak diizinkan.
 
 ---
-🤝 Kontribusi Pull request & issue welcome via: ctflabs-id/
+🤝 Kontribusi Pull request & issue welcome via: ctflabs-id/KuKISS-CTF
 
 🧠 Maintained by
 
