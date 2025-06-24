@@ -1,0 +1,17 @@
+{
+  "name": "KuKiSS (Kunci Kuki Sistem Sederhana)",
+  "version": "1.0.0",
+  "description": "Sebuah toko kue sedang dalam development namun developer lupa mengamankan kue nya dan kamu harus mendapatkan kue itu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CTFLabs-ID",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0"
+  }
+}
